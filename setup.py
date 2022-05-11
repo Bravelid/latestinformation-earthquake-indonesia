@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="IndonesiaEarthquakeInformation",
+    name="IndonesiaEarthquakeinfo",
     version="0.1",
     author="Muhammad Maulana B.",
     author_email="muhammadmaulanabdz@gmail.com",
@@ -17,7 +17,7 @@ setuptools.setup(
         "Github": "https://github.com/Bravelid/latestinformation-earthquake-indonesia",
     },
     classifiers=[
-        "Programming Language :: Python :: 4",
+        "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
 
