@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="IndonesiaEarthquakeinfo",
-    version="0.1",
+    version="0.2",
     author="Muhammad Maulana B.",
     author_email="muhammadmaulanabdz@gmail.com",
     description="This package informs about the latest earthquake from Meteorology Climatology and "
